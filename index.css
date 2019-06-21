@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+.github-Username-Container {
+    margin-top: 20px;
+}
+
+.github-Username-Container img {
+    width: 250px;
+    border: 1px solid black;
+}
+
+.repo-Name {
+    display: inline;
+    margin-left: 20px;
+    font-size: 32px;
+}
+
+.github-Username-Container a {
+    display: block;
+    margin-top: 20px;
+} 
